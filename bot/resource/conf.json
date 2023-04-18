@@ -1,0 +1,33 @@
+{
+    "dono": "1296518711",
+    "manutencao": "false",
+    "userDono": "@pladixoficial",
+    "usergrupo": "https://t.me/pladixcentral",
+    "versao": "3.1.1",
+    "updateDAte": "28/01/2022 - 16:09:15",
+    "price": {
+        "Gold": 5,
+        "Default": 5,
+        "standard": 5,
+        "default": 5,
+        "gold": 5,
+        "platinum": 5,
+        "elo": 5,
+        "bussines": 5,
+        "classic": 5,
+        "corporated": 5,
+        "black": 5,
+        "infiniti": 5,
+        "hypercard": 5
+    },
+    "pricemix": {
+        "2": 30,
+        "default": 10,
+        "5": 50
+    },
+    "welcome": "Você não tem permissão para trocar a mensagem de boas-vindas.",
+    "grupo": "O link do grupo não foi informado.",
+    "suporte": "https://t.me/pladixoficial",
+    "mercadopago": "APP_USR-1611273640851712-080108-685bd8d458e669f98eed16660c3783e7-207692423",
+    "checker": "http://pladixoficial.ddns.net/"
+}
